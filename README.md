@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1> I'm Krishna Dhungel </h1>
+<h1> I'm <span style="color:#ff0000;">Krishna Dhungel</span> </h1>
 <!--
 **dhungelkrishna/dhungelkrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
